@@ -1,6 +1,6 @@
 # Regression Template
 
-# Multiple Linear Regression
+# Decision Regression
 
 import numpy as np
 import matplotlib.pyplot as plt
